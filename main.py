@@ -13,8 +13,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-
-
 # Configuration variables
 PROJECT_DIRECTORIES = ['/home/naitik/Codes/Code-Activity-Logger']
 BACKUP_LOCATION = '/home/naitik/project_backups'
