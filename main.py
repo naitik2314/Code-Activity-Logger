@@ -14,8 +14,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration variables
-PROJECT_DIRECTORIES = ['/home/naitik/Codes/Code-Activity-Logger']
-BACKUP_LOCATION = '/home/naitik/project_backups'
+PROJECT_DIRECTORIES = ['/home/naitik/Codes/Testing-Code-Activity-Logger/Test-Project']
+BACKUP_LOCATION = '/home/naitik/Codes/Testing-Code-Activity-Logger/Test-Backup'
 CHANGELOG_FILE = '/home/naitik/Codes/workflow-tracker/changelog.md'
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") 
 
