@@ -136,3 +136,10 @@ Contributions are welcome! Please submit a pull request with detailed explanatio
 - Your Name
 - LinkedIn: [Naitik Shah](https://www.linkedin.com/in/naitik-shah-49baba1a1/)
 - GitHub: [naitik2314](https://github.com/naitik2314)
+
+---
+
+## Features currently working on
+
+- Convert this to a VSCode extension
+- Support for local llms using llama.cpp python wrapper
