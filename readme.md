@@ -15,8 +15,8 @@ Code Activity Logger is a **Python-based automation tool** designed to track, su
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/naitik2314/Code-Activity-Logger.git
+cd Code-Activity-Logger
 ```
 
 ### 2. Set Up a Virtual Environment
