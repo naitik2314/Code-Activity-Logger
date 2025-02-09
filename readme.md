@@ -60,7 +60,7 @@ git remote add origin https://github.com/yourusername/yourrepository.git
 ```
 
 ### Set Up Changelog Repository
-1. Create a new repository on GitHub named `changelog`.
+1. Create a new repository on GitHub named `changelog or whatever suits you`. 
 2. Clone the repository to your local system:
     ```sh
     git clone https://github.com/yourusername/changelog.git
