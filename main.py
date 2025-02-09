@@ -19,6 +19,9 @@ BACKUP_LOCATION = '/home/naitik/project_backups'
 CHANGELOG_FILE = '/home/naitik/Codes/Code-Activity-Logger/changelog.md'
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") 
 
+if not GEMINI_API_KEY:
+    print("Gemini API key not loaded! Add it to the .env file!")
+
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
