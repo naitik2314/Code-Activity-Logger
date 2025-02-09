@@ -19,7 +19,7 @@ load_dotenv()
 PROJECT_DIRECTORIES = ['/home/naitik/Codes/Code-Activity-Logger']
 BACKUP_LOCATION = '/home/naitik/project_backups'
 CHANGELOG_FILE = '/home/naitik/Codes/Code-Activity-Logger/changelog.md'
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")  # Replace with actual Gemini API key
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY") 
 
 # Logging setup
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
