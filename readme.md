@@ -98,7 +98,7 @@ python -m unittest test_script.py
 ## Project Structure
 
 ```
-/yourrepository
+/Code-Activity-Logger
 │── main.py              # Main script for logging and summarizing changes
 │── test_script.py       # Unit tests for validation
 │── requirements.txt     # Dependencies
