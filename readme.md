@@ -1,13 +1,14 @@
 # Code Activity Logger
 
 ## Overview
-Code Activity Logger is a **Python-based automation tool** designed to track, summarize, and log code changes across projects. It leverages **Google Gemini AI** to generate intelligent summaries of modifications and maintains a structured changelog. The tool enables seamless backup of project files and **automatically commits updates to a Git repository** for version control.
+Code Activity Logger is a **Python-based automation tool** designed to track, summarize, and log code changes across projects. It leverages **Google Gemini AI** to generate intelligent summaries of modifications and maintains a structured changelog. The tool enables seamless backup of project files and **automatically commits updates to a Git repository** for version control. It runs automatically at midnight to detect and log changes without manual intervention.
 
 ## Features
 - **Automated Code Change Detection**: Compares current and previous project versions to identify modifications.
 - **AI-Powered Summaries**: Uses Google Gemini API to generate concise summaries of code changes.
 - **Version Control Integration**: Updates and pushes the changelog to a Git repository.
 - **Backup System**: Creates daily backups of specified project directories.
+- **Automatic Execution**: The script runs automatically at midnight every day to check for code changes and update the changelog.
 
 ---
 
