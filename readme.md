@@ -134,5 +134,5 @@ Contributions are welcome! Please submit a pull request with detailed explanatio
 ## Author
 
 - Your Name
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
+- LinkedIn: [Naitik Shah](https://www.linkedin.com/in/naitik-shah-49baba1a1/)
+- GitHub: [naitik2314](https://github.com/naitik2314)
